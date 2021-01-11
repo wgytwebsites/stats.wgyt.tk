@@ -23,7 +23,9 @@ sites:
   - name: wgyt on grahamsh.com
     url: https://wgyt.grahamsh.com
 
-
+assignees: # Users to assign downtime issues (optional)
+  - wgyt
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: stats.wgyt.tk
