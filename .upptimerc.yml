@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: wgytwebsites # Your GitHub username
+repo: stats.wgyt.tk # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -32,7 +32,6 @@ status-website:
   logoUrl: https://avatars2.githubusercontent.com/u/68466727?s=60&v=4
   name: Wgyt | Status
   introTitle: "Wgyt | Status is the status page for all of @wgyt's websites"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/wgytwebsites/stats.wgyt.tk). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
