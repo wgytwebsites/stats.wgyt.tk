@@ -12,10 +12,8 @@ sites:
     url: https://auth.wgyt.tk
   - name: wgyt bot
     url: https://bot.wgyt.tk
-  - name: wgyt chat
-    url: https://chat.wgyt.tk
-  - name: wgyt comments
-    url: https://comments.wgyt.tk
+  - name: wgyt chat & comments
+    url: https://social.wgyt.tk
   - name: wgyt documentation
     url: https://documentation.wgyt.tk
   - name: wgyt.cf
