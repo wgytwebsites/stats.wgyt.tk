@@ -24,19 +24,19 @@
     "url": "https://api.wgyt.tk",
     "icon": "https://favicons.githubusercontent.com/api.wgyt.tk",
     "slug": "wgyt-api",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 318,
-    "timeDay": 272,
-    "timeWeek": 281,
-    "timeMonth": 325,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.87%",
+    "time": 319,
+    "timeDay": 297,
+    "timeWeek": 290,
+    "timeMonth": 326,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-02-11": 34
+      "2021-02-11": 60
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://bot.wgyt.tk",
     "icon": "https://favicons.githubusercontent.com/bot.wgyt.tk",
     "slug": "wgyt-bot",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 343,
-    "timeDay": 319,
-    "timeWeek": 230,
-    "timeMonth": 333,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 338,
+    "timeDay": 267,
+    "timeWeek": 223,
+    "timeMonth": 328,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2021-02-11": 15
+      "2021-02-11": 41
     }
   },
   {
