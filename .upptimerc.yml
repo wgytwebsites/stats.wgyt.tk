@@ -31,6 +31,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://avatars2.githubusercontent.com/u/68466727?s=60&v=4
   name: Wgyt | Status
+  theme: dark
   introTitle: "Wgyt | Status is the status page for all of @wgyt's websites"
   navbar:
     - title: Status
