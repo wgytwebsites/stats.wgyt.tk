@@ -16,6 +16,11 @@ sites:
     url: https://stats.wgyt.tk/
   - name: wgytcraft.cf
     url: https://wgytcraft.cf/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 501
   - name: wgyt.tk
     url: https://auth.wgyt.tk/
   - name: wgyt.grahamsh.com
