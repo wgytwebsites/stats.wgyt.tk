@@ -46,7 +46,7 @@ assignees:
   - wgyt
 
 status-website:
-  themeUrl: https://stats.wgyt.tk/assets/custom.css
+  themeUrl: https://stats.wgyt.tk/themes/custom.css
   name: Wgyt Status
   logoUrl: https://www.wgyt.tk/images/logo.webp
   cname: stats.wgyt.tk # Custom CNAME
