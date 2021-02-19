@@ -1,43 +1,55 @@
-# Change these first
-owner: wgytwebsites # Your GitHub username
-repo: stats.wgyt.tk # Your GitHub repository name
+owner: wgytwebsites
+repo: stats.wgyt.tk
 
-# Add your sites here
 sites:
-  - name: wgyt website
-    url: https://www.wgyt.tk
-  - name: wgyt api
-    url: https://api.wgyt.tk
-  - name: wgyt auth
-    url: https://auth.wgyt.tk
-  - name: wgyt bot
-    url: https://bot.wgyt.tk
-  - name: wgyt chat & comments
-    url: https://social.wgyt.tk
-  - name: wgyt documentation
-    url: https://documentation.wgyt.tk
+  - name: api.wgyt.tk
+    url: https://api.wgyt.tk/about
+  - name: auth.wgyt.tk
+    url: https://auth.wgyt.tk/
+  - name: josh bot (bot.wgyt.tk)
+    url: https://bot.wgyt.tk/
+  - name: documentation.wgyt.tk
+    url: https://documentation.wgyt.tk/
+  - name: social.wgyt.tk
+    url: https://social.wgyt.tk/
+  - name: stats.wgyt.tk (it is up lol)
+    url: https://stats.wgyt.tk/
+  - name: wgytcraft.cf
+    url: https://wgytcraft.cf/
+  - name: wgyt.tk
+    url: https://auth.wgyt.tk/
+  - name: wgyt.grahamsh.com
+    url: https://wgyt.grahamsh.com/
   - name: wgyt.cf
-    url: https://wgyt.cf/null
-  - name: wgyt on grahamsh.com
-    url: https://wgyt.grahamsh.com
+    url: https://auth.wgyt.tk/
+  - name: simpleedit.tk
+    url: https://simpleedit.tk/
+  - name: meower.tk
+    url: https://meower.tk/
+  - name: meowerplus.tk
+    url: https://meowerplus.tk/
+  - name: mastermindstudio.tk
+    url: https://mastermindstudio.tk/
+  - name: grocerycheck.ga
+    url: https://grocerycheck.ga/
+  - name: galacticaos.tk
+    url: https://galacticaos.tk/
+  - name: galaxydesign.ga
+    url: https://galaxydesign.ga/
+  - name: c4coding.cf
+    url: https://c4coding.cf/
+  - name: an-alien-in-disguise.cf
+    url: https://an-alien-in-disguise.cf/
 
-assignees: # Users to assign downtime issues (optional)
+assignees:
   - wgyt
-  
-status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: stats.wgyt.tk
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://avatars2.githubusercontent.com/u/68466727?s=60&v=4
-  name: Wgyt | Status
-  theme: ocean
-  introTitle: "Wgyt | Status is the status page for all of @wgyt's websites"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+status-website:
+  theme: dark # pls replace with   themeUrl: https://stats.wgyt.tk/assets/custom.css asp
+  name: Wgyt Status
+  logoUrl: https://www.wgyt.tk/images/logo.webp
+  cname: stats.wgyt.tk # Custom CNAME
+  navbar:
+    - title: Wgyt Status
+      href: /
+  
