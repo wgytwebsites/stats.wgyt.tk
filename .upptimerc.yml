@@ -41,10 +41,6 @@ sites:
     url: https://galacticaos.tk/
   - name: galaxydesign.ga
     url: https://galaxydesign.ga/
-  - name: c4coding.cf
-    url: https://c4coding.cf/
-  - name: an-alien-in-disguise.cf
-    url: https://www.an-alien-in-disguise.cf/
 
 assignees:
   - wgyt
