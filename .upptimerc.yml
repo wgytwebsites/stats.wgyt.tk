@@ -46,7 +46,7 @@ assignees:
   - wgyt
 
 status-website:
-  theme: dark # pls replace with   themeUrl: https://stats.wgyt.tk/assets/custom.css asp
+  themeUrl: https://stats.wgyt.tk/assets/custom.css
   name: Wgyt Status
   logoUrl: https://www.wgyt.tk/images/logo.webp
   cname: stats.wgyt.tk # Custom CNAME
