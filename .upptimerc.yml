@@ -50,7 +50,3 @@ status-website:
   name: Wgyt Status
   logoUrl: https://www.wgyt.tk/images/logo.webp
   cname: stats.wgyt.tk # Custom CNAME
-  navbar:
-    - title: Wgyt Status
-      href: /
-  
