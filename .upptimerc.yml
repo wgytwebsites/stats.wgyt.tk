@@ -35,12 +35,8 @@ sites:
     url: https://meowerplus.tk/
   - name: mastermindstudio.tk
     url: https://mastermindstudio.tk/
-  - name: grocerycheck.ga
-    url: https://grocerycheck.ga/
   - name: galacticaos.tk
     url: https://galacticaos.tk/
-  - name: galaxydesign.ga
-    url: https://galaxydesign.ga/
 
 assignees:
   - wgyt
